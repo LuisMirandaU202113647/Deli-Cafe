@@ -2,7 +2,7 @@
 
 ## Descripción
 Este proyecto consiste en el diseño de experiencia y visualización de interfaces de usuario para una cafetería ficticia en Estados Unidos cuyo valor agregado es el de ofrecer ambientes relajantes y atención y delivery cómodo.
-
+![HeroImage](Images/Hero_Image.png)
 ![Restaurante_Concepto](Images/Restaurante_Concepto.png)
 
 ## Objetivos
@@ -29,11 +29,13 @@ El objetivo general de este proyecto ha sido aplicar los conocimientos aprendido
 La documentación completa del proyecto se encuentra en formato pdf y docx en el presente repositorio en donde se incluyen la definición del negocio, público objetivo, requerimientos, sitemap, wireframes, moodboard y mockups.
 
 El prototipo de Figma se encuentra en el siguiente link indicado siguiendo los pasos a continuación: 
-
--Ingreso al link: https://www.figma.com/design/wM93gMzA4WvSSYigK0eHfm/DeliCaffe?node-id=0-1&t=oLusjuBQfddAdH2M-1
--Una vez en el sitio principal haga click en el ícono de presentación.
+</br>
+- Ingreso al link: https://www.figma.com/design/wM93gMzA4WvSSYigK0eHfm/DeliCaffe?node-id=0-1&t=oLusjuBQfddAdH2M-1
+</br>
+- Una vez en el sitio principal haga click en el ícono de presentación.
 ![Paso1](Images/Paso_1.png)
--En caso de requerir visualizar las opciones disponibles haga un click en el espacio fuera del prototipo y las opciones aparecerán en forma de cuadros azules.
+</br>
+- En caso de requerir visualizar las opciones disponibles haga un click en el espacio fuera del prototipo y las opciones aparecerán en forma de cuadros azules.
 ![Paso2](Images/Paso_2.png)
 
 ## Aprendizaje
