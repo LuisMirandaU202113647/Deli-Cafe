@@ -1,5 +1,5 @@
-##Deli Caffe
+####Deli Caffe
 
-##Descripción
+####Descripción
 Este proyecto consiste en el diseño de experiencia y visualización de interfaces de usuario para una cafetería ficticia cuyo valor agregado es el de ofrecer ambientes relajantes y atención y delivery cómodo.
 
