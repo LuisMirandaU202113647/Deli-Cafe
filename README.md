@@ -30,12 +30,12 @@ La documentación completa del proyecto se encuentra en formato pdf y docx en el
 
 El prototipo de Figma se encuentra en el siguiente link indicado siguiendo los pasos a continuación: 
 </br>
-- Ingreso al link: https://www.figma.com/design/wM93gMzA4WvSSYigK0eHfm/DeliCaffe?node-id=0-1&t=oLusjuBQfddAdH2M-1
+-Ingreso al link: https://www.figma.com/design/wM93gMzA4WvSSYigK0eHfm/DeliCaffe?node-id=0-1&t=oLusjuBQfddAdH2M-1
 </br>
-- Una vez en el sitio principal haga click en el ícono de presentación.
+-Una vez en el sitio principal haga click en el ícono de presentación.
 ![Paso1](Images/Paso_1.png)
 </br>
-- En caso de requerir visualizar las opciones disponibles haga un click en el espacio fuera del prototipo y las opciones aparecerán en forma de cuadros azules.
+-En caso de requerir visualizar las opciones disponibles haga un click en el espacio fuera del prototipo y las opciones aparecerán en forma de cuadros azules.
 ![Paso2](Images/Paso_2.png)
 
 ## Aprendizaje
