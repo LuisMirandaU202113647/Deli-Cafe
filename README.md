@@ -22,7 +22,7 @@ El objetivo general de este proyecto ha sido aplicar los conocimientos aprendido
 
 ## Herramientas Utilizadas
 - Microsoft Word
-- Photoshop
+- Adobe Photoshop
 - Figma
 
 ## Resultados
@@ -32,9 +32,10 @@ El prototipo de Figma se encuentra en el siguiente link indicado siguiendo los p
 
 -Ingreso al link: https://www.figma.com/design/wM93gMzA4WvSSYigK0eHfm/DeliCaffe?node-id=0-1&t=oLusjuBQfddAdH2M-1
 -Una vez en el sitio principal haga click en el ícono de presentación.
-![Paso1](Images/Restaurante_Concepto.png)
+![Paso1](Images/Paso_1.png)
 -En caso de requerir visualizar las opciones disponibles haga un click en el espacio fuera del prototipo y las opciones aparecerán en forma de cuadros azules.
-![Paso2](Images/Restaurante_Concepto.png)
+![Paso2](Images/Paso_2.png)
 
 ## Aprendizaje
 Mediante este proyecto he aprendido más sobre el proceso de creación de experiencia de usuario y diseño de interfaces. De igual forma he logrado profundizar en los conceptos de user persona, sitemap y moodboard. Además, este proyecto me ha permitido aprovechar y mejorar mis habilidades técnicas en photoshop y figma y en mis habilidades de comunicación escrita en inglés y elaboración de presentaciones.
+![Aprendizaje](Images/Aprendizaje.png)
